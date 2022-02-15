@@ -15,7 +15,7 @@ body{
    color:#424551;
    font-size: 16px;
    line-height: 1.6;
-   background-color: rgb(196, 202, 255);
+   
 
 }
 
@@ -84,7 +84,7 @@ background:linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
 }
 
 .link-button:active{
-   box-shadow: inset 0 0 15px 7px #b4211cab;
+   box-shadow: inset 0 0 15px 7px #ce2d27ab;
    color: rgb(228, 226, 226);
 
 }
