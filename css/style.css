@@ -35,6 +35,10 @@ body{
    margin: 0 0 40px 0;
 }
 
+.block-list *:last-child{
+   margin-bottom: 0;
+}
+
 .list{
    max-width: 390px;
    margin: 0 0 22px 0;
@@ -72,6 +76,7 @@ font-weight: 700;
 color: #fff;
 padding: 15px 32px;
 border-radius: 4px;
+margin: 0 0 15px 0;
 background:linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
 
 
