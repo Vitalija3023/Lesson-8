@@ -93,3 +93,20 @@ background:linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
    color: rgb(228, 226, 226);
 
 }
+
+.figma2{
+   margin: 60px 0 50px 0;
+   font-size: 30px;
+   display: inline-block;
+
+
+}
+
+.figma2::after{
+   content: "";
+   display:block;
+   width: 30%;
+   height: 2px;
+   background-color: #424551;
+
+}
